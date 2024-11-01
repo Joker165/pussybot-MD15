@@ -154,7 +154,7 @@ let msgs = generateWAMessageFromContent(id, {
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [{
             "name": "quick_reply",
-              "buttonParamsJson": `{\"display_text\":\"Welcome 💐\",\"id\":\"\"}`
+              "buttonParamsJson": `{\"display_text\":\"View Channel 🍀\",\"url\":\"https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"}`
             }],
           }),
           contextInfo: {
@@ -208,7 +208,7 @@ let msgs = generateWAMessageFromContent(id, {
           nativeFlowMessage: proto.Message.InteractiveMessage.NativeFlowMessage.create({
             buttons: [{
             "name": "quick_reply",
-              "buttonParamsJson": `{\"display_text\":\"Goodbye 👋\",\"id\":\"\"}`
+              "buttonParamsJson": `{\"display_text\":\"View Channel 🍀\",\"url\":\"https://whatsapp.com/channel/0029VagvH9tLdQeiUYXE7V43"}`
             }],
           }),
           contextInfo: {
