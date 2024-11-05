@@ -10,8 +10,8 @@ global.location = "nigeria, lagos, abuja " //ur location
 
 //new
 global.botname = 'ᴀɴᴛɪsᴏᴄɪᴀʟ ʜᴜᴍɪᴅɪᴛʏ🍀' //ur bot name
-global.ownernumber = ['2348022159244'] //ur owner number, dont add more than one
-global.ownername = 'ᗰ❣️ᖴᗴ 【𓍯】' //ur owner name
+global.ownernumber = ['2347071680685'] //ur owner number, dont add more than one
+global.ownername = 'BLAA 🥲' //ur owner name
 global.websitex = "‎https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"
 global.wagc = "‎https://whatsapp.com/channel/0029VaefL9g0gcfLITSc841W"
 global.themeemoji = '🍀'
@@ -20,8 +20,8 @@ global.botscript = 'https://github.com/Joker165/pussybot-MD15' //script link
 global.packname = "ᗰ❣️ᖴᗴ 【𓍯】"
 global.author = "ᴀɴᴛɪsᴏᴄɪᴀʟ ʜᴜᴍɪᴅɪᴛʏ🍀"
 global.creator = "2348022159244@s.whatsapp.net"
-global.xprefix = '!'
-global.premium = ["2348022159244"] // Premium User
+global.xprefix = ','
+global.premium = ["2347071680685"] // Premium User
 
 //channel id
 global.xchannel = {
