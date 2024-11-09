@@ -15591,7 +15591,7 @@ if (!XeonTheCreator) return XeonStickOwner()
 				if (!m.isBotAdmin) return XeonStickBotAdmin()
 				if (text === 'on') {
 					if (db.groups[m.chat].antidelete) return replygcxeon('*Sudah Aktif Sebelumnya*')
-					db.groups[m.chat].antidelete = true
+					db.groups[m.chat].antidelete = false
 					replygcxeon('*Anti Delete Activated !*')
 				} else if (text === 'off') {
 					db.groups[m.chat].antidelete = false
