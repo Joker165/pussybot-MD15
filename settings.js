@@ -22,7 +22,6 @@ global.author = "ᴀɴᴛɪsᴏᴄɪᴀʟ ʜᴜᴍɪᴅɪᴛʏ🍀"
 global.creator = "2348022159244@s.whatsapp.net"
 global.xprefix = ','
 global.premium = ["2347071680685"] // Premium User
-
 //channel id
 global.xchannel = {
 	jid: '120363297279563825@newsletter'
@@ -33,6 +32,7 @@ global.typemenu = 'v8' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '91' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
+global.antidelete = 'false' //set antidelete 
 
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -46,7 +46,7 @@ global.limit = {
 global.uang = {
 	free: 10000,
 	premium: 1000000,
-	vip: 10000000
+	vip: 10000000 
 }
 
 global.mess = {
